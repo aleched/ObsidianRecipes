@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "b6b6de9dd7039c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "4266047e6b0e6fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8cc7d8ebf703d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e01661aa2d2b094",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "230dca4caa4f5bf4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d2cb16b8dfd97b4e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fd2b264cc4ba464e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fc59fb04bb8e0855",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "e11a75172d3df3ba",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "5e183a329ce58feb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "976ae72890251af1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a212f2950ac94382",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "447c69d8542e8968",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e8cc7d8ebf703d2",
+  "lastOpenFiles": [
+    "Whole Chicken.md",
+    "White Chicken Chili.md",
+    "Waffles with Buttermilk.md",
+    "Vegetarian Lasagna.md",
+    "Vegetarian Chili.md",
+    "Vegan Cream Base - NY Times.md",
+    "Tortillas from Masa Harina.md",
+    "Tortellini Soup.md",
+    "Thin Crust Pizza.md",
+    "Sweet and Sour Chicken.md",
+    "Sweet Potato Sausage Skillet.md",
+    "Sweet Potato Gnocchi.md",
+    "Sweet Potato Corn Chowder.md",
+    "Sweet Cream Base 2 - Ben & Jerry.md",
+    "Sweet Cream Base 1 - Ben & Jerry.md",
+    "Spinach Veloute.md",
+    "Spicy Miso Spaghetti.md",
+    "Spanish Tortilla.md",
+    "Smothered Cabbage.md",
+    "Sicilian Pizza.md",
+    "Shrub.md",
+    "Shredded Chicken.md",
+    "Seitan.md",
+    "Sandwich Loaf.md",
+    "Rogan Josh.md",
+    "Roasted Vegetables.md",
+    "Frittata.jpg"
+  ]
+}
