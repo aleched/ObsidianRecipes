@@ -1,6 +1,6 @@
 #Vegetarian #InstantPot #Lentil #Curry 
 - 1 cup black gram lentils (Sabut Urad Dal), rinsed and soaked for 4 hours or overnight
-- 1/4 cup Red Kidney Beans
+- ¼ cup Red Kidney Beans
 - 1 tbsp ghee
 - 1 tsp cumin seeds
 - 1 tbsp ginger, minced
@@ -13,7 +13,7 @@
 
 **Spices**
 - 1 tsp Red Chili powder
-- 1/2 tsp Garam Masala
+- ½ tsp Garam Masala
 - 1 tsp coriander powder
 - 1 tsp salt
 

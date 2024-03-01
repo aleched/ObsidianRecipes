@@ -1,5 +1,5 @@
 #Dessert #Bread #Oven 
-- ½ cup butter
+- 8 tbsp butter
 - ¾ cup brown sugar
 - 3-5 overripe bananas
 - 2 eggs

@@ -13,7 +13,7 @@ Filling:
 4. Press the filling into the crust and refrigerate for at least 2 hours
 
 Crust:  
-- 1 stick butter  
+- 8 tbsp (113g) butter  
 - 25 Oreos
   
 1. Melt butter in a bowl

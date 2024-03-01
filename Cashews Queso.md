@@ -3,8 +3,8 @@
 - 1 clove of garlic
 - 6 g (1 tsp) nutritional yeast
 - ​6 g (1 tsp) chili powder
-- ​3 g (1/2 tsp) ground cumin
-- 3 g (1/2 tsp) salt, plus more to taste
+- ​3 g (½ tsp) ground cumin
+- 3 g (½ tsp) salt, plus more to taste
 - 15 g (1 tbsp) harissa (or sub hot salsa, hot sauce, Ro-Tel, or 1 chipotle pepper in adobo sauce, plus more for garnish)
 - Hot water, for blending
 

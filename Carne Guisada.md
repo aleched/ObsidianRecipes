@@ -1,6 +1,6 @@
 #Beef #Oven
 - Beef chuck roast or shoulder, cut into 1-2 inch cubes
-- 1/2 white or yellow onion, diced
+- ½ white or yellow onion, diced
 - 1 poblano pepper*, diced
 - 3-4 garlic cloves, minced
 - 4 Roma tomatoes, diced
@@ -14,6 +14,6 @@
 2. In a dutch oven, sear the beef cubes in batches until at least 2 sides are browned, set aside
 3. Add diced onions, poblano, and garlic and sauté until they are taking on some color
 4. Add the cumin, chili powder, bouillon, and flour and sauté for 2 more minutes or until fragrant
-5. Add the tomatoes and beef back in and enough water to cover everything 1/2 inch
+5. Add the tomatoes and beef back in and enough water to cover everything ½ inch
 6. Bring to a simmer and partially cover with a lid
 7. Transfer to preheated oven and let it braise for 2-4 hours or until the meat pulls apart and the gravy has reduced and thickened

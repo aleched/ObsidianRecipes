@@ -2,9 +2,9 @@
 - 1 tbsp ghee
 - 1 tsp cumin seeds
 - 1 green chili pepper, (optional)
-- 1/2 onion, diced
-- 1/2 tbsp garlic, minced
-- 1/2 tbsp ginger, grated
+- ½ onion, diced
+- ½ tbsp garlic, minced
+- ½ tbsp ginger, grated
 - 1 (14oz) can tomatoes
 - 1 cup red lentils (Masoor Dal), rinsed
 - 3 cups water or stock, reduce to 2.5 cup for a thicker dal
@@ -12,10 +12,10 @@
 - Cilantro, to garnish
 
 **Spices**
-- 1/2 tsp turmeric
-- 1/2 tsp coriander powder
-- 1/2 tsp Red Chili powder
-- 1/2 tsp Garam Masala
+- ½ tsp turmeric
+- ½ tsp coriander powder
+- ½ tsp Red Chili powder
+- ½ tsp Garam Masala
 - 1 tsp salt
 
 1. Start the pressure cooker in sauté mode and let it heat. Add oil and cumin seeds. Sauté for 30 seconds.  

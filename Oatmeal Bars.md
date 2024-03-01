@@ -1,4 +1,4 @@
-#Dessert #Oven 
+#Dessert #Bar #Oven 
 - 1 cup butter
 - ½ cup sugar
 - 1 cup packed brown sugar

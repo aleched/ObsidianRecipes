@@ -1,5 +1,5 @@
-#Side #Vegetarian 
-- ¼ cup butter
+#Sauce #Vegetarian 
+- 4 tbsp butter
 - 1 cup heavy cream
 - 2 cloves garlic
 - 1½ cup pecorino cheese

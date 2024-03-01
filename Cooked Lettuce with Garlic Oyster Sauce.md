@@ -1,4 +1,4 @@
-#Vegetarian #Side #Range 
+#Side #Sauce #Vegetarian #Range 
 - 1 head romaine lettuce
 - 1 tbsp oil
 

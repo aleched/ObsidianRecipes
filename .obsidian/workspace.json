@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d4588d0e13bc90",
+        "id": "f411aa868de99a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "e50dfb6f3999e51c",
+            "id": "ea8ee9870f79dffa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banana Bread - Oven.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a869dcfcc06e43ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banana Bread - InstantPot.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oal",
+                "query": "#forma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,34 +70,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a869dcfcc06e43ed",
+  "active": "693c49046fe39363",
   "lastOpenFiles": [
-    "Banana Bread - Oven.md",
-    "Banana Bread - InstantPot.md",
-    "Oatmeal Bars.md",
-    "Babka.md",
-    "Jambalaya.md",
-    "Beef Short Ribs.md",
-    "Bread Pudding.md",
-    "Peanut Butter Tofu Pie.md",
-    "Peanut Butter Oatmeal Cookies.md",
-    "Kheer.md",
-    "Edible Cookie Dough.md",
-    "Chocolate Crinkle Cookies.md",
-    "Chocolate Chip Cookies.md",
-    "Sweet Cream Base 2 - Ben & Jerry.md",
-    "Sweet Cream Base 1 - Ben & Jerry.md",
-    "Vegan Cream Base - NY Times.md",
-    "Crusty No-Knead Boule - NY Times.md",
-    "Crusty No-Knead Boule - King Arthur.md",
-    "Crusty No-Knead Boule - Kenji.md",
-    "Crusty No-Knead Boule.md",
-    "Aged Eggnog.md",
-    "Shrub.md",
+    "Corn Risotto.md",
+    "Sweet and Sour Chicken.md",
+    "Vegetarian Lasagna.md",
+    "Smothered Cabbage.md",
+    "Moroccan Sweet Potato Lentil Stew.md",
+    "Indian Brussels Sprouts.md",
     "Gin Cocktails.md",
-    "Rice or Dal Cereal.md",
-    "Baby Led Weaning.md",
-    "Naan.md",
+    "Adobo chicken.md",
+    "Leftover Turkey Pot Pie.md",
+    "French Onion Soup.md",
+    "Garlic Urad Dal Fry.md",
+    "Carnitas.md",
+    "Masoor Dal.md",
+    "Gorditas.md",
+    "Chorizo Chickpeas.md",
+    "Dal Makhani.md",
+    "Chana Masala.md",
+    "Cashews Queso.md",
+    "Carne Guisada.md",
+    "Ground Pork Stir-fry.md",
+    "Honey Bourbon Chicken.md",
+    "Tinga Sauce.md",
+    "Bibimbap Sauce.md",
+    "Cumin Rice.md",
+    "Alfredo Sauce.md",
+    "Cooked Lettuce with Garlic Oyster Sauce.md",
     "Frittata.jpg",
     "Pasted image 20240229201258.png",
     "Garlic Urad Dal Fry.md~RF14e110e.TMP",

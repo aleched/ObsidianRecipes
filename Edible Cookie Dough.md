@@ -1,6 +1,6 @@
 #Dessert #Cookie
 - 1½ cup (180g) flour
-- 8 tbsp butter
+- ½ cup (113g) butter
 - 1 cup packed brown sugar
 - 2 tbsp heavy cream
 - 2 tsp vanilla extract

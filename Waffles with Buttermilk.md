@@ -7,7 +7,7 @@
 - 1 egg yolk
 - 1 cup milk
 - ½ cup buttermilk
-- ¾ cup butter, melted
+- 12 tbsp butter, melted
 - 1 tsp vanilla
 
 1. In a medium bowl, whisk together the dry ingredients

@@ -5,7 +5,7 @@
 - 1 onion, quartered
 - 1 orange, quartered
 - Sprinkle of cinnamon
-- 1/4 - ½ cup peanut oil
+- ¼-½ cup peanut oil
 
 1. Preheat the oven to 275°
 2. Cut the pork shoulder up into ~2 inch cubes

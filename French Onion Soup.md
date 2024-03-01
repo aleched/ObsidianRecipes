@@ -1,7 +1,7 @@
 #InstantPot #Vegetarian #Soup 
 - 1½ kg onions
 - 6 tbsp butter
-- ½ teaspoon baking soda
+- ½ tsp baking soda
 - 2 cloves garlic
 - 2 qt beef or vegetable stock
 - 2 tbsp red wine (optional)

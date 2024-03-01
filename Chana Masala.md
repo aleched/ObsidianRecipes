@@ -1,23 +1,22 @@
 #Vegetarian #Curry 
 - 2 tbsp coconut oil or vegetable oil
-- 1 1/2 yellow onions, finely diced (2 cups)
+- 1½ (2 cups) yellow onions, finely diced
 - 4 cloves garlic, minced
-- 1 tsp minced ginger (~1/2" piece)
+- 1 tsp ginger, grated
 - 4 whole dried red chiles, more or less to taste
-- 2 green cardamon pods
+- 2 green cardamom pods
 - 2 whole cloves
 - 1 cinnamon stick
 - 1 bay leaf
-- 1 tsp amchoor* (dried mango powder)
+- 1 tsp amchoor (substitute lemon juice)
 - 1 tsp ground coriander
-- 1/2 tsp ground cayenne or hot chili powder
-- 1/2 tsp garam masala
-- 1/4 tsp turmeric
+- ½ tsp ground cayenne or hot chili powder
+- ½ tsp garam masala
+- ¼ tsp turmeric
 - freshly ground black pepper
-- 1 to 1 1/2 tsp salt to taste
-- 3 cups (28oz can) cooked chickpeas, drained and rinsed
-- 26oz can strained, crushed, or puréed tomatoes
-- 1 1/2 tsp kasoori methi, optional
+- 2 tsp salt, to taste
+- 2 (14oz) can chickpeas, drained and rinsed
+- 2 (14oz) can tomatoes
 - minced cilantro, for garnish
 - minced yellow onion, for garnish
 

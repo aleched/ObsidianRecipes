@@ -2,10 +2,10 @@
 - 1 (15oz) can chickpeas, drained and rinsed
 - 2 tsp oil
 - 2 tsp smoked paprika
-- 1/2 tsp ground cumin
-- 1/2 tsp garlic powder
-- 1/2 tsp onion powder
-- 1/2 tsp salt, or to taste
+- ½ tsp ground cumin
+- ½ tsp garlic powder
+- ½ tsp onion powder
+- ½ tsp salt, or to taste
 - black pepper to taste
 
 1. Heat a skillet over medium heat. Add the oil and chickpeas.

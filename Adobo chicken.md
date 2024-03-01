@@ -1,12 +1,12 @@
 #Chicken #Range
 - 2-3 (900 to 1350g) pounds bone-in, skin-on chicken thighs and drumsticks
 - Kosher salt
-- 1-2 tablespoons (15-30ml) neutral oil
+- 1-2 tbsp oil
 - A big pinch ground black pepper
 - 30-40 whole black peppercorns
 - 15-20 whole cloves garlic, smashed
 - 1 cup (240ml) distilled white vinegar
-- 2/3 cup (160ml) soy sauce
+- ⅔ cup (160ml) soy sauce
 - 5 ounces (145g) brown sugar
 - A few bay leaves
 

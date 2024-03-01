@@ -9,13 +9,13 @@
 
 **Cinnamon paste**
 - 213g (1 cup) brown sugar
-- 226g (1 cup) butter, melted
+- 226g (16 tbsp) butter, melted
 - 4 tbsp cinnamon
 - 1 tsp nutmeg
 
 **Chocolate paste**
 - 180g dark chocolate (70 percent or higher)
-- 120g (½ cup) butter
+- 120g (8 tbsp) butter
 - 105g (¾ cup) powdered sugar
 - 42g (½ cup + 1 tbsp) cocoa powder
 - ¼ tsp nutmeg

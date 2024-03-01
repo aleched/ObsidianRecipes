@@ -6,7 +6,7 @@
 - ½ tsp salt
 - 1¼ cup buttermilk
 - 1 egg
-- 1½ tbsp butter, melted
+- 2 tbsp butter, melted
 
 1. In a medium bowl, whisk together the dry ingredients
 2. In a small bowl, whisk together the wet ingredients

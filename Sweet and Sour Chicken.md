@@ -1,10 +1,10 @@
 #Range #Chicken 
 Chicken:
 - 1lb of chicken thigh or breast (Cut into Stir Fry sized pieces)
-- 1.5 tsp of corn starch
-- 1/2 tsp of baking soda
+- 1½ tsp of corn starch
+- ½ tsp of baking soda
 - 2 tsp of sugar
-- 1/2 tsp of kosher salt
+- ½ tsp of kosher salt
 - 1 tsp of Shaoxing wine
 - 1 tsp of light soy sauce
 - 1 egg white
@@ -20,18 +20,18 @@ Mix vigorously and let stand for at least 15 mins
 
 **Aromatics**
 - 4 cloves of garlic
-- 1/2 finger of ginger
+- ½ finger of ginger
 
 Crush in mortar and pestle.
 
 **Sauce**
 - Pineapple juice from 10oz can
-- 3tbls of ketchup
-- 2tbls of white vinegar
-- 1tbls plus 1/2 tsp of sugar
+- 3 tbsp of ketchup
+- 2 tbsp of white vinegar
+- 3½ tsp of sugar
 - 1 tsp of soy sauce
 - splash of shaoxing wine
-- 2 tsp of corn strach
+- 2 tsp of corn starch
 
 Whisk to combine
 

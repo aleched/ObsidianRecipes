@@ -1,4 +1,4 @@
-#Side #Vegetarian 
+#Sauce #Vegetarian 
 - 30g gochujang
 - 15g mirin or honey
 - 5g sesame oil

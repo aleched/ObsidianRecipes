@@ -1,18 +1,18 @@
 #Vegetarian #Range #Side
 - 12 ounces Brussels sprouts
 - 2 tbsp oil
-- 1/2 tsp Mustard Seeds
-- 1/2 tsp Cumin seeds
+- ½ tsp Mustard Seeds
+- ½ tsp Cumin seeds
 - 1 tsp ginger, grated
 - 1 tsp garlic, minced
-- 1/2 onion, thinly sliced
+- ½ onion, thinly sliced
 - ½ tsp turmeric
 - 1 tsp Red Chili powder
 - 1 tsp coriander powder
 - 1 tsp salt
-- 2 tablespoon Water, if required
+- 2 tbsp water, if required
 - Juice of half lime
-- 2 tablespoon Cilantro
+- 2 tbsp cilantro
 
 1. Rinse brussels sprouts with water and pat dry with a kitchen towel.
 2. Using a sharp knife, trim off the bottom of the hard stem of each Brussel sprouts and cut each Brussels sprout in half lengthwise, from tip to trimmed end. You can also cut to one-fourth for larger Brussels sprouts.
