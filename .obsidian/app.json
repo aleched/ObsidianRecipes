@@ -3,5 +3,15 @@
   "attachmentFolderPath": "/",
   "livePreview": false,
   "strictLineBreaks": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:set-heading",
+    "editor:toggle-bold"
+  ]
 }

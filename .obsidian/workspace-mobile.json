@@ -11,8 +11,13 @@
             "id": "2e8cc7d8ebf703d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Thin Crust Pizza.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -25,22 +30,12 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "230dca4caa4f5bf4",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
         "id": "d2cb16b8dfd97b4e",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Oven",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -50,26 +45,7 @@
         }
       },
       {
-        "id": "fd2b264cc4ba464e",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "fc59fb04bb8e0855",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {}
-        }
-      },
-      {
-        "id": "e11a75172d3df3ba",
+        "id": "31041d1935a1ba31",
         "type": "leaf",
         "state": {
           "type": "tagfolder-view",
@@ -77,7 +53,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 1
   },
   "right": {
     "id": "5e183a329ce58feb",
@@ -126,34 +102,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e8cc7d8ebf703d2",
+  "active": "d2cb16b8dfd97b4e",
   "lastOpenFiles": [
-    "Whole Chicken.md",
-    "White Chicken Chili.md",
-    "Waffles with Buttermilk.md",
-    "Vegetarian Lasagna.md",
-    "Vegetarian Chili.md",
-    "Vegan Cream Base - NY Times.md",
-    "Tortillas from Masa Harina.md",
-    "Tortellini Soup.md",
-    "Thin Crust Pizza.md",
-    "Sweet and Sour Chicken.md",
-    "Sweet Potato Sausage Skillet.md",
-    "Sweet Potato Gnocchi.md",
-    "Sweet Potato Corn Chowder.md",
-    "Sweet Cream Base 2 - Ben & Jerry.md",
-    "Sweet Cream Base 1 - Ben & Jerry.md",
-    "Spinach Veloute.md",
-    "Spicy Miso Spaghetti.md",
-    "Spanish Tortilla.md",
-    "Smothered Cabbage.md",
-    "Sicilian Pizza.md",
-    "Shrub.md",
-    "Shredded Chicken.md",
-    "Seitan.md",
-    "Sandwich Loaf.md",
-    "Rogan Josh.md",
-    "Roasted Vegetables.md",
+    "Tinga Sauce.md",
+    "Baby Led Weaning.md",
+    "Tres Leches Cake.md",
+    "Tarte Tatin.md",
+    "S’mores Cookie Bars.md",
+    "Shortbread.md",
+    "Plum Torte.md",
+    "Pie Crust.md",
+    "Pastilla.md",
+    "Macarons.md",
+    "Ground Pork Stir-fry.md",
+    "Cinnamon Apples.md",
+    "Chocolate Cake.md",
+    "Carrot Cake.md",
+    "Buttercream Frosting.md",
+    "Apple Pie.md",
+    "/Waffles with Buttermilk.md",
+    "/Vegetarian Lasagna.md",
+    "/Tres Leches Cake.md",
+    "/Tinga Sauce.md",
+    "/Tarte Tatin.md",
+    "/S’mores Cookie Bars.md",
+    "/Sweet and Sour Chicken.md",
+    "/Smothered Cabbage.md",
+    "/Shortbread.md",
+    "/Plum Torte.md",
     "Frittata.jpg"
   ]
 }
