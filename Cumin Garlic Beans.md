@@ -1,5 +1,5 @@
 #Side #Range #Vegetarian 
-- 29 oz (large can) beans (pinto or black)
+- 2 (15oz) can beans (pinto or black)
 - 15g peanut oil
 - A spoonful of cumin seeds
 - 2 cloves of garlic, mashed
@@ -7,7 +7,7 @@
 - Lime zest to taste
 - Lime juice to taste
 
-1. Open the can of pintos. Gather the cumin seeds, smashed garlic, and lime if using.
+1. Open the can of beans. Gather the cumin seeds, smashed garlic, and lime if using.
 2. Set a pan over medium heat and add the oil. Once hot add the cumin seeds and garlic cloves. Toast until fragrant but not burning, about 30 seconds
 3. Add the pinto beans and a large pinch of salt. Cook while stirring for a couple of minutes.
 4. Using a fork or potato mash, partially mash the beans to your desired consistency.
