@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "obsidian-git:pull",
+    "obsidian-git:push",
+    "obsidian-git:open-history-view",
+    "obsidian-git:discard-all"
+  ]
+}

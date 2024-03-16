@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4266047e6b0e6fad",
+        "id": "d17f9574de62c42d",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8cc7d8ebf703d2",
+            "id": "695520b310e6274b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thin Crust Pizza.md",
+                "file": "Khichdi.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Oven",
+            "query": "Khi",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -51,46 +51,29 @@
           "type": "tagfolder-view",
           "state": {}
         }
+      },
+      {
+        "id": "c9d49e471fea0d07",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5e183a329ce58feb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "976ae72890251af1",
+        "id": "3ae77a5300bc328f",
         "type": "leaf",
         "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "a212f2950ac94382",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "447c69d8542e8968",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
+          "type": "git-history-view",
           "state": {}
         }
       }
@@ -102,12 +85,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2cb16b8dfd97b4e",
+  "active": "695520b310e6274b",
   "lastOpenFiles": [
+    "Garlic Urad Dal Fry.md",
+    "Dan Bing.md",
+    "Migas.md",
+    "Crack Chicken.md",
+    "Thin Crust Pizza.md",
+    "Okonomiyaki.md",
+    "Kheer.md",
+    "Alfredo Sauce.md",
+    "Bourbon Bacon Baked Beans.md",
+    "Edible Cookie Dough.md",
+    "Tarte Tatin.md",
     "Tinga Sauce.md",
     "Baby Led Weaning.md",
     "Tres Leches Cake.md",
-    "Tarte Tatin.md",
     "S’mores Cookie Bars.md",
     "Shortbread.md",
     "Plum Torte.md",
@@ -120,16 +113,6 @@
     "Carrot Cake.md",
     "Buttercream Frosting.md",
     "Apple Pie.md",
-    "/Waffles with Buttermilk.md",
-    "/Vegetarian Lasagna.md",
-    "/Tres Leches Cake.md",
-    "/Tinga Sauce.md",
-    "/Tarte Tatin.md",
-    "/S’mores Cookie Bars.md",
-    "/Sweet and Sour Chicken.md",
-    "/Smothered Cabbage.md",
-    "/Shortbread.md",
-    "/Plum Torte.md",
     "Frittata.jpg"
   ]
 }

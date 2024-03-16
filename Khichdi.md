@@ -1,4 +1,4 @@
-#Vegetarian #Curry #InstantPot 
+#Vegetarian #Curry #InstantPot #Lentil 
 - 1 cup rice
 - ½ cup lentils, small yellow/moong dal
 - 2 tbsp ghee
