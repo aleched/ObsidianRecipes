@@ -1,20 +1,21 @@
 #Vegetarian #Curry #InstantPot 
 - ⅓ block (300g) paneer
+- 2 tsp ghee
+- 1 tsp cumin seeds
 - 1 onion
-- ½ hot pepper (jalapeno, serrano, etc)
-- 3 cloves garlic
-- 3 tsp ginger
-- 2 tsp oil
+- 5 cloves garlic
+- 1 inch ginger, grated
 - 450g spinach
 - 1 14oz can tomatoes
-- 2 tsp cumin
 - 2 tsp garam masala
-- 1 tsp salt
+- 1 tsp coriander
 - 1 tsp turmeric
+- 1 tsp salt
 - ½ tsp cayenne
-- ½ cup water
+- ½ cup water or stock
 
-1. Cut the paneer into cubes and dice the onion and pepper
-2. Use the instant pot to saute the pepper, garlic, and ginger in the oil
-3. Add everything except the paneer and pressure cook for 6min
-4. Use immersion blender to puree the sauce, then mix in the paneer
+1. Cut the paneer into cubes and dice the onion and garlic
+2. Use the instant pot to saute the cumin seeds in ghee until fragrant
+3. Add the onion, garlic, and ginger and saute for 2min
+4. Add everything except the paneer and pressure cook for 2min, then natural release for 5min
+5. Use immersion blender to puree the sauce, then mix in the paneer
