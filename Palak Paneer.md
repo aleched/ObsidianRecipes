@@ -18,4 +18,5 @@
 2. Use the instant pot to saute the cumin seeds in ghee until fragrant
 3. Add the onion, garlic, and ginger and saute for 2min
 4. Add everything except the paneer and pressure cook for 2min, then natural release for 5min
-5. Use immersion blender to puree the sauce, then mix in the paneer
+5. Optionally pan fry the paneer for texture and color
+6. Use immersion blender to puree the sauce, then mix in the paneer
