@@ -11,8 +11,13 @@
             "id": "ea8ee9870f79dffa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pão de Queijo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#forma",
+                "query": "source",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +75,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "693c49046fe39363",
+  "active": "ea8ee9870f79dffa",
   "lastOpenFiles": [
+    "Leftover Turkey Pot Pie.md",
+    "Pão de Queijo.md",
     "Corn Risotto.md",
     "Sweet and Sour Chicken.md",
     "Vegetarian Lasagna.md",
@@ -80,7 +87,6 @@
     "Indian Brussels Sprouts.md",
     "Gin Cocktails.md",
     "Adobo chicken.md",
-    "Leftover Turkey Pot Pie.md",
     "French Onion Soup.md",
     "Garlic Urad Dal Fry.md",
     "Carnitas.md",
@@ -97,7 +103,6 @@
     "Bibimbap Sauce.md",
     "Cumin Rice.md",
     "Alfredo Sauce.md",
-    "Cooked Lettuce with Garlic Oyster Sauce.md",
     "Frittata.jpg",
     "Pasted image 20240229201258.png",
     "Garlic Urad Dal Fry.md~RF14e110e.TMP",
