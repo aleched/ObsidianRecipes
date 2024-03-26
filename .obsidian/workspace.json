@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "fec8375d6a447552",
+    "type": "split",
+    "children": [
+      {
+        "id": "f411aa868de99a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8ee9870f79dffa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0905d8acdb1f18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0fd47153992cf92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "693c49046fe39363",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#forma",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2eea5ccbc25e65a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "6a7b68f7c98ce90c",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "693c49046fe39363",
+  "lastOpenFiles": [
+    "Corn Risotto.md",
+    "Sweet and Sour Chicken.md",
+    "Vegetarian Lasagna.md",
+    "Smothered Cabbage.md",
+    "Moroccan Sweet Potato Lentil Stew.md",
+    "Indian Brussels Sprouts.md",
+    "Gin Cocktails.md",
+    "Adobo chicken.md",
+    "Leftover Turkey Pot Pie.md",
+    "French Onion Soup.md",
+    "Garlic Urad Dal Fry.md",
+    "Carnitas.md",
+    "Masoor Dal.md",
+    "Gorditas.md",
+    "Chorizo Chickpeas.md",
+    "Dal Makhani.md",
+    "Chana Masala.md",
+    "Cashews Queso.md",
+    "Carne Guisada.md",
+    "Ground Pork Stir-fry.md",
+    "Honey Bourbon Chicken.md",
+    "Tinga Sauce.md",
+    "Bibimbap Sauce.md",
+    "Cumin Rice.md",
+    "Alfredo Sauce.md",
+    "Cooked Lettuce with Garlic Oyster Sauce.md",
+    "Frittata.jpg",
+    "Pasted image 20240229201258.png",
+    "Garlic Urad Dal Fry.md~RF14e110e.TMP",
+    "Spaces/Home",
+    "Spaces",
+    "Noodles",
+    "Fry",
+    "Oven",
+    "Range",
+    "Desserts"
+  ]
+}

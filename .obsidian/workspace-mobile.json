@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "b6b6de9dd7039c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc154a3c257f631e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82190c44031860d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mapo Tofu.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e01661aa2d2b094",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d2cb16b8dfd97b4e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Mapo",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "31041d1935a1ba31",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "c9d49e471fea0d07",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5e183a329ce58feb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3ae77a5300bc328f",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82190c44031860d9",
+  "lastOpenFiles": [
+    "Peanut Butter Oatmeal Cookies.md",
+    "Ground Pork Stir-fry.md",
+    "/Ground Pork Stir-fry.md",
+    "Cumin Rice.md",
+    "Palak Paneer.md",
+    "Chicken Broth.md",
+    "Chocolate Chip Cookies.md",
+    "Edible Cookie Dough.md",
+    "Thin Crust Pizza.md",
+    "Cumin Garlic Beans.md",
+    "Khichdi.md",
+    "Chorizo Chickpeas.md",
+    "Garlic Urad Dal Fry.md",
+    "Dan Bing.md",
+    "Migas.md",
+    "Crack Chicken.md",
+    "Okonomiyaki.md",
+    "Kheer.md",
+    "Alfredo Sauce.md",
+    "Bourbon Bacon Baked Beans.md",
+    "Tarte Tatin.md",
+    "Tinga Sauce.md",
+    "Baby Led Weaning.md",
+    "Tres Leches Cake.md",
+    "S’mores Cookie Bars.md",
+    "Shortbread.md",
+    "Frittata.jpg"
+  ]
+}
