@@ -13,8 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapo Tofu.md",
+                "file": "Esquites (elote salad).md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d262ff341d8d628d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roasted Vegetables.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6f07d07f5e86f4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crack Chicken.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -35,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Mapo",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -63,7 +89,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5e183a329ce58feb",
@@ -87,12 +113,16 @@
   },
   "active": "82190c44031860d9",
   "lastOpenFiles": [
+    "Roasted Vegetables.md",
+    "Crack Chicken.md",
+    "Mapo Tofu.md",
+    "Esquites (elote salad).md",
+    "Chicken Stock.md",
     "Peanut Butter Oatmeal Cookies.md",
     "Ground Pork Stir-fry.md",
     "/Ground Pork Stir-fry.md",
     "Cumin Rice.md",
     "Palak Paneer.md",
-    "Chicken Broth.md",
     "Chocolate Chip Cookies.md",
     "Edible Cookie Dough.md",
     "Thin Crust Pizza.md",
@@ -102,7 +132,6 @@
     "Garlic Urad Dal Fry.md",
     "Dan Bing.md",
     "Migas.md",
-    "Crack Chicken.md",
     "Okonomiyaki.md",
     "Kheer.md",
     "Alfredo Sauce.md",
@@ -110,9 +139,6 @@
     "Tarte Tatin.md",
     "Tinga Sauce.md",
     "Baby Led Weaning.md",
-    "Tres Leches Cake.md",
-    "S’mores Cookie Bars.md",
-    "Shortbread.md",
     "Frittata.jpg"
   ]
 }
