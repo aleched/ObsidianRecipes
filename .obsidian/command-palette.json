@@ -1,8 +1,8 @@
 {
   "pinned": [
-    "obsidian-git:pull",
-    "obsidian-git:push",
-    "obsidian-git:open-history-view",
-    "obsidian-git:discard-all"
+    "workspace:close",
+    "workspace:undo-close-pane",
+    "workspace:close-others",
+    "obsidian-git:push"
   ]
 }

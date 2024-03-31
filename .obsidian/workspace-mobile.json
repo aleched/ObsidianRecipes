@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "dd2fc719c94ca573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tinga Sauce.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "913ff34de36accb5",
             "type": "leaf",
             "state": {
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,13 +127,18 @@
   },
   "active": "913ff34de36accb5",
   "lastOpenFiles": [
-    "Tinga Sauce.md",
+    "Chocolate Chip Cookies.md",
+    "Molasses Cookies.md",
     "Egg Bake.md",
-    "Roasted Vegetables.md",
-    "Khichdi.md",
-    "Elote.md",
+    "Gingerbread Cookies.md",
+    "Thin Crust Pizza.md",
+    "Tinga Sauce.md",
     "Pad Thai.md",
     "Crack Chicken.md",
+    "Gin Cocktails.md",
+    "Khichdi.md",
+    "Roasted Vegetables.md",
+    "Elote.md",
     "Mapo Tofu.md",
     "Chicken Stock.md",
     "Peanut Butter Oatmeal Cookies.md",
@@ -154,18 +146,13 @@
     "/Ground Pork Stir-fry.md",
     "Cumin Rice.md",
     "Palak Paneer.md",
-    "Chocolate Chip Cookies.md",
     "Edible Cookie Dough.md",
-    "Thin Crust Pizza.md",
     "Cumin Garlic Beans.md",
     "Chorizo Chickpeas.md",
     "Garlic Urad Dal Fry.md",
     "Dan Bing.md",
     "Migas.md",
     "Okonomiyaki.md",
-    "Kheer.md",
-    "Alfredo Sauce.md",
-    "Bourbon Bacon Baked Beans.md",
     "Frittata.jpg"
   ]
 }

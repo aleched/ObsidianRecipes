@@ -7,7 +7,7 @@
 - 1 tsp salt
 - 1 tsp baking soda
 - 2 tsp water
-- 3½ cup (440g) flour
+- 440g (3½ cup) flour
 - 1 cup chocolate chips
 
 1. Preheat oven to 350°
