@@ -1,3 +1,4 @@
+#Breakfast #Cassarole #Oven #Vegetarian
 - 4 cups (175g) cubes of crusty bread
 - 1 lb ground pork sausage, casings removed
 - 1 tsp dried rosemary or Italian seasoning, optional

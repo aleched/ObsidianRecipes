@@ -34,25 +34,25 @@
             }
           },
           {
-            "id": "cfaca9ad027ca093",
+            "id": "4a5d1ae9d3fbc7f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khichdi.md",
-                "mode": "preview",
+                "file": "Garlic Urad Dal Fry.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "913ff34de36accb5",
+            "id": "2164545de091a19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egg Bake.md",
+                "file": "Chicken Stock.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -125,22 +125,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "913ff34de36accb5",
+  "active": "2164545de091a19c",
   "lastOpenFiles": [
     "Chocolate Chip Cookies.md",
     "Molasses Cookies.md",
-    "Egg Bake.md",
     "Gingerbread Cookies.md",
+    "Garlic Urad Dal Fry.md",
+    "Migas.md",
+    "Egg Bake.md",
+    "Chicken Stock.md",
+    "Stop.md",
+    "Roasted Vegetables.md",
+    "Khichdi.md",
     "Thin Crust Pizza.md",
     "Tinga Sauce.md",
     "Pad Thai.md",
     "Crack Chicken.md",
     "Gin Cocktails.md",
-    "Khichdi.md",
-    "Roasted Vegetables.md",
     "Elote.md",
     "Mapo Tofu.md",
-    "Chicken Stock.md",
     "Peanut Butter Oatmeal Cookies.md",
     "Ground Pork Stir-fry.md",
     "/Ground Pork Stir-fry.md",
@@ -149,10 +152,7 @@
     "Edible Cookie Dough.md",
     "Cumin Garlic Beans.md",
     "Chorizo Chickpeas.md",
-    "Garlic Urad Dal Fry.md",
     "Dan Bing.md",
-    "Migas.md",
-    "Okonomiyaki.md",
     "Frittata.jpg"
   ]
 }
