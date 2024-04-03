@@ -40,27 +40,27 @@
               "type": "markdown",
               "state": {
                 "file": "Garlic Urad Dal Fry.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "2164545de091a19c",
+            "id": "9f40e03fa2cb1e9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken Stock.md",
-                "mode": "preview",
+                "file": "Brown Rice and Lentils.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,15 +125,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2164545de091a19c",
+  "active": "4a5d1ae9d3fbc7f1",
   "lastOpenFiles": [
+    "Brown Rice and Lentils.md",
+    "Moroccan Sweet Potato Lentil Stew.md",
+    "Garlic Urad Dal Fry.md",
+    "Chicken Stock.md",
     "Chocolate Chip Cookies.md",
     "Molasses Cookies.md",
     "Gingerbread Cookies.md",
-    "Garlic Urad Dal Fry.md",
     "Migas.md",
     "Egg Bake.md",
-    "Chicken Stock.md",
     "Stop.md",
     "Roasted Vegetables.md",
     "Khichdi.md",
@@ -151,8 +153,6 @@
     "Palak Paneer.md",
     "Edible Cookie Dough.md",
     "Cumin Garlic Beans.md",
-    "Chorizo Chickpeas.md",
-    "Dan Bing.md",
     "Frittata.jpg"
   ]
 }
