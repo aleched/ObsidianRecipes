@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steel Cut Oats.md",
-                "mode": "preview",
+                "file": "Mac N Cheese.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -75,7 +75,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Chili",
+            "query": "Mac",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -103,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5e183a329ce58feb",
@@ -128,15 +128,16 @@
   "active": "7b5f184af8c2c4fb",
   "lastOpenFiles": [
     "Seitan.md",
+    "Palak Paneer.md",
+    "Cornbread.md",
+    "Crack Chicken.md",
+    "Mac N Cheese.md",
+    "Thin Crust Pizza.md",
     "Steel Cut Oats.md",
     "Tortillas from Masa Harina.md",
-    "Palak Paneer.md",
-    "Crack Chicken.md",
     "Creamy Chicken Penne.md",
     "Roasted Vegetables.md",
-    "Cornbread.md",
     "Bacon Beef Beer Chili.md",
-    "Thin Crust Pizza.md",
     "White Chicken Chili.md",
     "Brown Rice and Lentils.md",
     "Garlic Urad Dal Fry.md",
@@ -152,7 +153,6 @@
     "Tinga Sauce.md",
     "Pad Thai.md",
     "Gin Cocktails.md",
-    "Elote.md",
     "Frittata.jpg"
   ]
 }
