@@ -21,8 +21,8 @@
 
 **Toppings for 1 pizza**
 - 340g mozzarella
-- 227g sausage
-- 57g Pecorino
+- 230g sausage
+- 60g Pecorino
 
 1. Whisk together the flour, salt, sugar, and yeast in a stand mixer
 2. Add the water and oil, mix until a shaggy ball is formed
