@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mac N Cheese.md",
-                "mode": "source",
+                "file": "Butter Chicken.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -52,15 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seitan.md",
-                "mode": "source",
+                "file": "Hot Chocolate.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5e183a329ce58feb",
@@ -125,13 +125,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b5f184af8c2c4fb",
+  "active": "d872dd19a4e97fa9",
   "lastOpenFiles": [
+    "Chicken Stock.md",
+    "Hot Chocolate.md",
+    "Dal Makhani.md",
     "Seitan.md",
+    "Butter Chicken.md",
+    "Chicken Tikka Masala.md",
+    "Mac N Cheese.md",
     "Palak Paneer.md",
     "Cornbread.md",
     "Crack Chicken.md",
-    "Mac N Cheese.md",
     "Thin Crust Pizza.md",
     "Steel Cut Oats.md",
     "Tortillas from Masa Harina.md",
@@ -142,17 +147,12 @@
     "Brown Rice and Lentils.md",
     "Garlic Urad Dal Fry.md",
     "Moroccan Sweet Potato Lentil Stew.md",
-    "Chicken Stock.md",
     "Chocolate Chip Cookies.md",
     "Molasses Cookies.md",
     "Gingerbread Cookies.md",
     "Migas.md",
     "Egg Bake.md",
     "Stop.md",
-    "Khichdi.md",
-    "Tinga Sauce.md",
-    "Pad Thai.md",
-    "Gin Cocktails.md",
     "Frittata.jpg"
   ]
 }
