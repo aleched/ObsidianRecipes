@@ -1,5 +1,5 @@
 #Breakfast #Cassarole #Oven #Vegetarian
-- 4 cups (175g) cubes of crusty bread
+- 4 cups (175g) crusty bread, cubed
 - 1 lb ground pork sausage, casings removed
 - 1 tsp dried rosemary or Italian seasoning, optional
 - ½ yellow onion, chopped
@@ -17,10 +17,10 @@
 4. Spread in an even layer on top of bread
 5. Whisk the eggs, milk, salt and pepper together and evenly pour over the top
 6. Sprinkle the cheese on top
-7. Cover casserole with plastic wrap or aluminum foil and refrigerate overnight
+7. Cover casserole with plastic wrap and refrigerate overnight
 #
 1. Preheat the oven to 375° and remove the casserole from the fridge
-2. Bake uncovered 40-45min, until the top is golden and edges are crisp
+2. Bake uncovered 45min, until the top is golden and edges are crisp
 3. Cool for 10 minutes, then slice and serve
 
 [Source](https://sallysbakingaddiction.com/easy-make-ahead-breakfast-casserole/)
