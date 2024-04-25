@@ -11,11 +11,27 @@
             "id": "ea8ee9870f79dffa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "da876108ca7574d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marinara Sauce.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,8 +66,19 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "c811b25205afb679",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,8 +97,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "693c49046fe39363",
+  "active": "da876108ca7574d2",
   "lastOpenFiles": [
+    "Alfredo Sauce.md",
+    "Marinara Sauce.md",
+    "Steel Cut Oats.md",
+    "Mac N Cheese.md",
+    "Hot Chocolate.md",
     "Corn Risotto.md",
     "Sweet and Sour Chicken.md",
     "Vegetarian Lasagna.md",
@@ -93,11 +125,6 @@
     "Carne Guisada.md",
     "Ground Pork Stir-fry.md",
     "Honey Bourbon Chicken.md",
-    "Tinga Sauce.md",
-    "Bibimbap Sauce.md",
-    "Cumin Rice.md",
-    "Alfredo Sauce.md",
-    "Cooked Lettuce with Garlic Oyster Sauce.md",
     "Frittata.jpg",
     "Pasted image 20240229201258.png",
     "Garlic Urad Dal Fry.md~RF14e110e.TMP",
