@@ -1,4 +1,4 @@
-#Range #Vegetarian 
+#Vegetarian 
 - 228g (2 cups) shredded Gruyere cheese
 - 171g (1½ cups) shredded Swiss cheese
 - 19g (2 tbsp) cornstarch
