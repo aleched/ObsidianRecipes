@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "d872dd19a4e97fa9",
+            "id": "7b9c54b91e409b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chocolate Peanut Butter Bars.md",
+                "file": "French Toast Bake.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -60,20 +60,20 @@
             }
           },
           {
-            "id": "7b9c54b91e409b10",
+            "id": "9bb19dff529ffa8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French Toast.md",
-                "mode": "preview",
+                "file": "Chocolate Peanut Butter Bars.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,12 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d872dd19a4e97fa9",
+  "active": "9bb19dff529ffa8c",
   "lastOpenFiles": [
-    "French Toast.md",
-    "Fondue.md",
-    "Chocolate Chia Seed Pudding.md",
+    "French Toast Bake.md",
     "Chocolate Peanut Butter Bars.md",
+    "Fondue.md",
+    "French Toast.md",
+    "Butter Chicken.md",
+    "Chocolate Chia Seed Pudding.md",
+    "/Fondue.md",
+    "/French Toast Bake.md",
+    "/Egg Bake.md",
     "/Chocolate Chia Seed Pudding.md",
     "Baby Led Weaning.md",
     "Marinara Sauce.md",
@@ -155,17 +160,12 @@
     "Chicken Stock.md",
     "Dal Makhani.md",
     "Seitan.md",
-    "Butter Chicken.md",
     "Chicken Tikka Masala.md",
     "Mac N Cheese.md",
     "Palak Paneer.md",
     "Cornbread.md",
     "Crack Chicken.md",
     "Steel Cut Oats.md",
-    "Tortillas from Masa Harina.md",
-    "Creamy Chicken Penne.md",
-    "Roasted Vegetables.md",
-    "Bacon Beef Beer Chili.md",
     "Frittata.jpg"
   ]
 }
