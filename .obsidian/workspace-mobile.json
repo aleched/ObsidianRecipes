@@ -71,8 +71,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dcff98b203512273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Lentil and Pumpkin Soup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bfd74d59fae8c636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tortellini Soup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,15 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82190c44031860d9",
+  "active": "dcff98b203512273",
   "lastOpenFiles": [
+    "Tortellini Soup.md",
+    "Red Lentil and Pumpkin Soup.md",
+    "French Toast Bake.md",
     "Frijoles.md",
+    "Egg Bake.md",
     "Elote.md",
     "Butter Chicken.md",
-    "Egg Bake.md",
     "Roasted Vegetables.md",
     "Chocolate Peanut Butter Bars.md",
-    "French Toast Bake.md",
     "Fondue.md",
     "French Toast.md",
     "Chocolate Chia Seed Pudding.md",
@@ -163,8 +192,6 @@
     "Dal Makhani.md",
     "Seitan.md",
     "Chicken Tikka Masala.md",
-    "Mac N Cheese.md",
-    "Palak Paneer.md",
     "Frittata.jpg"
   ]
 }
