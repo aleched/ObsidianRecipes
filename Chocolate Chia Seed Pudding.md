@@ -1,3 +1,4 @@
+#Dessert 
 - 4 tbsp cocoa powder
 - 1-3 tbsp sugar
 - ½ tsp salt
@@ -11,3 +12,5 @@
 3. Add the remaining milk and mix until smooth
 4. Add the chia seeds and mix until combined
 5. Cover and refrigerate overnight
+
+[Source](https://minimalistbaker.com/overnight-chocolate-chia-seed-pudding/#wprm-recipe-container-35641)

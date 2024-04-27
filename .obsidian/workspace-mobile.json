@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thin Crust Pizza.md",
+                "file": "Chocolate Peanut Butter Bars.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b9c54b91e409b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French Toast.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -127,6 +140,17 @@
   },
   "active": "d872dd19a4e97fa9",
   "lastOpenFiles": [
+    "French Toast.md",
+    "Fondue.md",
+    "Chocolate Chia Seed Pudding.md",
+    "Chocolate Peanut Butter Bars.md",
+    "/Chocolate Chia Seed Pudding.md",
+    "Baby Led Weaning.md",
+    "Marinara Sauce.md",
+    "Japanese Curry.md",
+    "/Marinara Sauce.md",
+    "Egg Bake.md",
+    "Thin Crust Pizza.md",
     "Hot Chocolate.md",
     "Chicken Stock.md",
     "Dal Makhani.md",
@@ -137,22 +161,11 @@
     "Palak Paneer.md",
     "Cornbread.md",
     "Crack Chicken.md",
-    "Thin Crust Pizza.md",
     "Steel Cut Oats.md",
     "Tortillas from Masa Harina.md",
     "Creamy Chicken Penne.md",
     "Roasted Vegetables.md",
     "Bacon Beef Beer Chili.md",
-    "White Chicken Chili.md",
-    "Brown Rice and Lentils.md",
-    "Garlic Urad Dal Fry.md",
-    "Moroccan Sweet Potato Lentil Stew.md",
-    "Chocolate Chip Cookies.md",
-    "Molasses Cookies.md",
-    "Gingerbread Cookies.md",
-    "Migas.md",
-    "Egg Bake.md",
-    "Stop.md",
     "Frittata.jpg"
   ]
 }
