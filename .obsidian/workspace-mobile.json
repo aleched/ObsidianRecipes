@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roasted Vegetables.md",
+                "file": "Frijoles.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -65,15 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chocolate Peanut Butter Bars.md",
+                "file": "Egg Bake.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,13 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bb19dff529ffa8c",
+  "active": "82190c44031860d9",
   "lastOpenFiles": [
-    "French Toast Bake.md",
+    "Frijoles.md",
+    "Elote.md",
+    "Butter Chicken.md",
+    "Egg Bake.md",
+    "Roasted Vegetables.md",
     "Chocolate Peanut Butter Bars.md",
+    "French Toast Bake.md",
     "Fondue.md",
     "French Toast.md",
-    "Butter Chicken.md",
     "Chocolate Chia Seed Pudding.md",
     "/Fondue.md",
     "/French Toast Bake.md",
@@ -154,7 +157,6 @@
     "Marinara Sauce.md",
     "Japanese Curry.md",
     "/Marinara Sauce.md",
-    "Egg Bake.md",
     "Thin Crust Pizza.md",
     "Hot Chocolate.md",
     "Chicken Stock.md",
@@ -163,9 +165,6 @@
     "Chicken Tikka Masala.md",
     "Mac N Cheese.md",
     "Palak Paneer.md",
-    "Cornbread.md",
-    "Crack Chicken.md",
-    "Steel Cut Oats.md",
     "Frittata.jpg"
   ]
 }
