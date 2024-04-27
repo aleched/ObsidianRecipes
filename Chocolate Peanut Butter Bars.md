@@ -1,4 +1,4 @@
-#Dessert #Vegetarian 
+#Dessert
 - 113g (8 tbsp) butter, melted
 - 120g (1 cup) graham cracker crumbs
 - 240g (2 cup) powdered sugar
