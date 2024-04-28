@@ -71,22 +71,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ee3512eb0097fb7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gochujang Beef.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee3512eb0097fb7d",
+  "active": "7b9c54b91e409b10",
   "lastOpenFiles": [
-    "Gochujang Beef.md",
-    "French Toast Bake.md",
     "Egg Bake.md",
+    "French Toast Bake.md",
+    "Gochujang Beef.md",
     "Red Lentil and Pumpkin Soup.md",
     "Butter Chicken.md",
     "Tortellini Soup.md",
