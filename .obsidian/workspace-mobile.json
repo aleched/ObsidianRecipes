@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roasted Vegetables.md",
+                "file": "Frijoles.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Butter Chicken.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d872dd19a4e97fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chocolate Peanut Butter Bars.md",
+                "file": "Red Lentil and Pumpkin Soup.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -65,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French Toast.md",
+                "file": "French Toast Bake.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9bb19dff529ffa8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Egg Bake.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -138,34 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d872dd19a4e97fa9",
+  "active": "7b9c54b91e409b10",
   "lastOpenFiles": [
-    "French Toast.md",
-    "Fondue.md",
-    "Chocolate Chia Seed Pudding.md",
+    "Egg Bake.md",
+    "French Toast Bake.md",
+    "Gochujang Beef.md",
+    "Red Lentil and Pumpkin Soup.md",
+    "Butter Chicken.md",
+    "Tortellini Soup.md",
+    "Frijoles.md",
+    "Elote.md",
+    "Roasted Vegetables.md",
     "Chocolate Peanut Butter Bars.md",
+    "Fondue.md",
+    "French Toast.md",
+    "Chocolate Chia Seed Pudding.md",
+    "/Fondue.md",
+    "/French Toast Bake.md",
+    "/Egg Bake.md",
     "/Chocolate Chia Seed Pudding.md",
     "Baby Led Weaning.md",
     "Marinara Sauce.md",
     "Japanese Curry.md",
     "/Marinara Sauce.md",
-    "Egg Bake.md",
     "Thin Crust Pizza.md",
     "Hot Chocolate.md",
     "Chicken Stock.md",
     "Dal Makhani.md",
     "Seitan.md",
-    "Butter Chicken.md",
-    "Chicken Tikka Masala.md",
-    "Mac N Cheese.md",
-    "Palak Paneer.md",
-    "Cornbread.md",
-    "Crack Chicken.md",
-    "Steel Cut Oats.md",
-    "Tortillas from Masa Harina.md",
-    "Creamy Chicken Penne.md",
-    "Roasted Vegetables.md",
-    "Bacon Beef Beer Chili.md",
     "Frittata.jpg"
   ]
 }

@@ -22,12 +22,11 @@ Topping
 4. Drop dollops of cream cheese mixture on top of the bread
 5. Layer the remaining bread cubes on top of the cream cheese
 6. Whisk the eggs, milk, brown sugar, 2 tsp vanilla, and cinnamon together and evenly pour over the top
+7. Whisk the topping brown sugar, flour, and cinnamon together, then cut in the butter and sprinkle over the top
 8. Cover casserole with plastic wrap and refrigerate overnight
 #
 1. Preheat the oven to 350° and remove the casserole from the fridge
-2. Whisk the topping brown sugar, flour, and cinnamon together
-3. Cut in the cubed butter and sprinkle over the top
-4. Bake uncovered 45min, until the top is golden and edges are crisp
-5. Cool for 10 minutes, then slice and serve
+2. Bake uncovered 45min, until the top is golden and edges are crisp
+3. Cool for 10 minutes, then slice and serve
 
 [Source](https://sallysbakingaddiction.com/baked-cream-cheese-french-toast-casserole/)
