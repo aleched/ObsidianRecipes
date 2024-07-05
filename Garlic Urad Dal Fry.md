@@ -19,5 +19,5 @@
 5. Add the garlic and ginger and fry until the garlic is starting to turn golden in places, 1-2min
 6. Stir in the garam masala and lemon juice and add the cooked urad dal
 7. Bring to a simmer and add salt to taste, and adjust any other spices to taste
-8. Simmer 5-10min to meld the flavors, add water as needed to thin to your desired consistency
+8. Simmer 5-10min to meld the flavors, add water as needed to thin to desired consistency
 9. Serve garnished with pickled onions
