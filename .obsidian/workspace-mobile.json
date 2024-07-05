@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82190c44031860d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elote.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d262ff341d8d628d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frijoles.md",
+                "file": "Thin Crust Pizza.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Lentil and Pumpkin Soup.md",
+                "file": "Pad Thai.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -47,12 +34,12 @@
             }
           },
           {
-            "id": "7b9c54b91e409b10",
+            "id": "f011642595d7e0b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "French Toast Bake.md",
+                "file": "Masoor Dal.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -60,12 +47,38 @@
             }
           },
           {
-            "id": "9bb19dff529ffa8c",
+            "id": "fc0ea93794284af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Egg Bake.md",
+                "file": "Moong Dal.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6efa85d03d9ebccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ligurian Focaccia.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b207007c91a0156d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garlic Urad Dal Fry.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Mac",
+            "query": "Lentil",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -138,34 +151,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b9c54b91e409b10",
+  "active": "b207007c91a0156d",
   "lastOpenFiles": [
-    "Egg Bake.md",
-    "French Toast Bake.md",
-    "Gochujang Beef.md",
-    "Red Lentil and Pumpkin Soup.md",
-    "Butter Chicken.md",
-    "Tortellini Soup.md",
-    "Frijoles.md",
-    "Elote.md",
-    "Roasted Vegetables.md",
-    "Chocolate Peanut Butter Bars.md",
-    "Fondue.md",
-    "French Toast.md",
-    "Chocolate Chia Seed Pudding.md",
-    "/Fondue.md",
-    "/French Toast Bake.md",
-    "/Egg Bake.md",
-    "/Chocolate Chia Seed Pudding.md",
-    "Baby Led Weaning.md",
-    "Marinara Sauce.md",
-    "Japanese Curry.md",
-    "/Marinara Sauce.md",
-    "Thin Crust Pizza.md",
-    "Hot Chocolate.md",
+    "Sweet Cream Base 1 - Ben & Jerry.md",
+    "Steel Cut Oats.md",
     "Chicken Stock.md",
+    "Thin Crust Pizza.md",
+    "Ligurian Focaccia.md",
+    "Ground Pork Stir-fry.md",
+    "Upside-Down Blueberry Muffin.md",
+    "Moong Dal.md",
+    "Banana Bread - InstantPot.md",
+    "Orange Salmon.md",
+    "Marinara Sauce.md",
+    "Chocolate Chip Cookies.md",
+    "Cornbread.md",
+    "Focaccia.md",
+    "Bread Pudding.md",
+    "Khichdi.md",
+    "Chocolate Peanut Butter Bars.md",
+    "Elote.md",
+    "Frijoles.md",
+    "Pad Thai.md",
+    "Masoor Dal.md",
     "Dal Makhani.md",
-    "Seitan.md",
+    "Garlic Urad Dal Fry.md",
+    "Moroccan Sweet Potato Lentil Stew.md",
+    "Edible Cookie Dough.md",
+    "Mac N Cheese.md",
     "Frittata.jpg"
   ]
 }

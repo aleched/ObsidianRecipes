@@ -1,6 +1,6 @@
 #Vegetarian #Curry #Lentil #InstantPot #Range 
 - 2 cups (414g) urad dal
-- 5 cups stock or water
+- 5 cups (1135g) stock or water
 - 1 tsp coriander powder
 - 1 tsp turmeric powder
 - 1 tsp salt
