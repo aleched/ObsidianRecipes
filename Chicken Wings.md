@@ -2,7 +2,8 @@
 - 1-4 lbs chicken wings, cut into drumettes and flats
 - 1 tsp baking powder (per lb of wings)
 - 1 tsp corn starch (per lb of wings)
-- 1 tsp kosher salt (per lb of wings)
+- ½ tsp garlic powder salt (per lb of wings)
+- ½ tsp onion powder salt (per lb of wings)
 
 1. Line a baking sheet with aluminum foil and set a wire rack inside
 2. Cut the wings at the joint to make drumettes and flats, trim and discard the tips
