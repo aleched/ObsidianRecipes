@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken Wings.md",
+                "file": "Garlic Urad Dal Fry.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken Stock.md",
+                "file": "Creamy Chicken Penne.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chocolate Chip Cookies.md",
+                "file": "Chicken Stock.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,34 +151,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f011642595d7e0b4",
+  "active": "6efa85d03d9ebccf",
   "lastOpenFiles": [
-    "Moong Dal.md",
+    "Crusty No-Knead Boule.md",
+    "Chicken Stock.md",
+    "Fondue.md",
+    "Khichdi.md",
+    "Crusty No-Knead Boule - King Arthur.md",
+    "Spinach Veloute.md",
+    "Garlic Urad Dal Fry.md",
+    "Dal Makhani.md",
+    "Thin Crust Pizza.md",
+    "Cornbread.md",
+    "White Chicken Chili.md",
+    "Pad Thai.md",
+    "Crusty No-Knead Boule - Kenji.md",
+    "Mac N Cheese.md",
+    "Chocolate Chip Cookies.md",
     "Chicken Wings.md",
+    "Moong Dal.md",
     "Tortellini Soup.md",
     "Masoor Dal.md",
-    "Chicken Stock.md",
-    "Chocolate Chip Cookies.md",
-    "Mac N Cheese.md",
-    "Khichdi.md",
     "Biang Biang Noodles.md",
     "Creamy Chicken Penne.md",
-    "Thin Crust Pizza.md",
-    "Dal Makhani.md",
-    "Garlic Urad Dal Fry.md",
     "Okonomiyaki.md",
     "Butter Chicken.md",
     "Ligurian Focaccia.md",
-    "Pad Thai.md",
-    "White Chicken Chili.md",
     "Banana Bread - InstantPot.md",
     "Sweet Cream Base 1 - Ben & Jerry.md",
-    "Steel Cut Oats.md",
-    "Ground Pork Stir-fry.md",
-    "Upside-Down Blueberry Muffin.md",
-    "Orange Salmon.md",
-    "Marinara Sauce.md",
-    "Cornbread.md",
     "Frittata.jpg"
   ]
 }

@@ -9,8 +9,8 @@
 - 1 cup cherry tomatoes
 - ½ cup sundried tomatoes
 - ½ cup pecorino cheese
-- ¼ cup basil
-- ¼ cup oregano
+- 2 tbsp basil
+- 2 tbsp oregano
 - 3 cloves garlic
 - 1 tbsp flour
 - 2 tbsp water
