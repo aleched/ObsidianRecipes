@@ -8,46 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9add73472acca38f",
+            "id": "f754bec5cc16da18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrot Cake.md",
+                "file": "White Urad Dal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "White Urad Dal"
             }
           },
           {
-            "id": "893a76b338e4756a",
+            "id": "0937589cb12f1fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upside-Down Blueberry Muffin.md",
+                "file": "Khichdi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Khichdi"
             }
           },
           {
-            "id": "a524ca10259c5ff7",
+            "id": "c3f75df08f5ed44a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gin Cocktails.md",
+                "file": "Garlic Urad Dal Fry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Garlic Urad Dal Fry"
+            }
+          },
+          {
+            "id": "3f3e249894448027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dal Makhani.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dal Makhani"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +92,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           },
           {
@@ -90,7 +114,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -113,10 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "893a76b338e4756a",
+  "active": "f754bec5cc16da18",
   "lastOpenFiles": [
-    "Carrot Cake.md",
+    "Garlic Urad Dal Fry.md",
+    "Khichdi.md",
+    "White Urad Dal.md",
+    "Dal Makhani.md",
+    "Cashews Queso.md",
+    "Peanut Butter Tofu Pie.md",
     "Upside-Down Blueberry Muffin.md",
+    "Carrot Cake.md",
     "Pad Thai.md",
     "Gin Cocktails.md",
     "Chocolate Peanut Butter Bars.md",
@@ -135,12 +167,6 @@
     "Corn Risotto.md",
     "Sweet and Sour Chicken.md",
     "Vegetarian Lasagna.md",
-    "Smothered Cabbage.md",
-    "Moroccan Sweet Potato Lentil Stew.md",
-    "Indian Brussels Sprouts.md",
-    "Adobo chicken.md",
-    "Leftover Turkey Pot Pie.md",
-    "French Onion Soup.md",
     "Frittata.jpg",
     "Pasted image 20240229201258.png",
     "Garlic Urad Dal Fry.md~RF14e110e.TMP",
