@@ -17,7 +17,9 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Thin Crust Pizza"
             }
           },
           {
@@ -26,11 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pad Thai.md",
+                "file": "Gin Cocktails.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gin Cocktails"
             }
           },
           {
@@ -39,11 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garlic Urad Dal Fry.md",
+                "file": "Moong Dal.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Moong Dal"
             }
           },
           {
@@ -52,11 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moong Dal.md",
+                "file": "Khichdi.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Khichdi"
             }
           },
           {
@@ -65,11 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creamy Chicken Penne.md",
+                "file": "Beef Burgundy.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Beef Burgundy"
             }
           },
           {
@@ -82,11 +92,13 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chicken Stock"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -115,7 +129,9 @@
         "type": "leaf",
         "state": {
           "type": "tagfolder-view",
-          "state": {}
+          "state": {},
+          "icon": "stacked-levels",
+          "title": "Tag Folder"
         }
       },
       {
@@ -125,7 +141,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       }
     ],
@@ -140,7 +158,9 @@
         "type": "leaf",
         "state": {
           "type": "git-history-view",
-          "state": {}
+          "state": {},
+          "icon": "history",
+          "title": "History"
         }
       }
     ],
@@ -151,34 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6efa85d03d9ebccf",
+  "active": "fc0ea93794284af4",
   "lastOpenFiles": [
-    "Thin Crust Pizza.md",
-    "Creamy Chicken Penne.md",
-    "Crusty No-Knead Boule.md",
+    "Beef Burgundy.md",
+    "Chocolate Crinkle Cookies.md",
     "Chicken Stock.md",
-    "Fondue.md",
-    "Khichdi.md",
-    "Crusty No-Knead Boule - King Arthur.md",
-    "Spinach Veloute.md",
-    "Garlic Urad Dal Fry.md",
-    "Dal Makhani.md",
-    "Cornbread.md",
-    "White Chicken Chili.md",
-    "Pad Thai.md",
-    "Crusty No-Knead Boule - Kenji.md",
-    "Mac N Cheese.md",
-    "Chocolate Chip Cookies.md",
-    "Chicken Wings.md",
     "Moong Dal.md",
-    "Tortellini Soup.md",
     "Masoor Dal.md",
-    "Biang Biang Noodles.md",
-    "Okonomiyaki.md",
-    "Butter Chicken.md",
-    "Ligurian Focaccia.md",
+    "Dal Makhani.md",
+    "Gingerbread Cookies.md",
+    "Thin Crust Pizza.md",
+    "Gin Cocktails.md",
+    "French Toast.md",
+    "Palak Paneer.md",
+    "Mac N Cheese.md",
+    "Steel Cut Oats.md",
+    "Chocolate Chip Cookies.md",
+    "Garlic Urad Dal Fry.md",
+    "Khichdi.md",
+    "White Urad Dal.md",
+    "/White Urad Dal.md",
+    "Bacon Beef Beer Chili.md",
+    "Cornbread.md",
+    "Pad Thai.md",
+    "Ground Pork Stir-fry.md",
+    "Naan with Poolish.md",
+    "Japanese Curry.md",
     "Banana Bread - InstantPot.md",
-    "Sweet Cream Base 1 - Ben & Jerry.md",
+    "Seitan.md",
     "Frittata.jpg"
   ]
 }

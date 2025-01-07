@@ -5,6 +5,7 @@
 - 1 tbsp ginger
 - 1 tsp cumin
 - 1 tsp coriander
+- 1 tsp cinnamon
 - 1 bay leaf
 - 6 cup water
 - 2 tsp salt
