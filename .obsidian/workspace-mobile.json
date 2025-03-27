@@ -15,8 +15,8 @@
               "state": {
                 "file": "Thin Crust Pizza.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Thin Crust Pizza"
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese Curry.md",
+                "file": "Cornbread.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Japanese Curry"
+              "title": "Cornbread"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moong Dal.md",
+                "file": "White Chicken Chili.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Moong Dal"
+              "title": "White Chicken Chili"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khichdi.md",
+                "file": "Gin Cocktails.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Khichdi"
+              "title": "Gin Cocktails"
             }
           },
           {
@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken Wings.md",
+                "file": "Pancakes with Buttermilk.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Wings"
+              "title": "Pancakes with Buttermilk"
             }
           },
           {
@@ -88,17 +88,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken Stock.md",
+                "file": "Upside-Down Blueberry Muffin.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Stock"
+              "title": "Upside-Down Blueberry Muffin"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,34 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6efa85d03d9ebccf",
+  "active": "fc0ea93794284af4",
   "lastOpenFiles": [
+    "Khichdi.md",
+    "Upside-Down Blueberry Muffin.md",
+    "Thin Crust Pizza.md",
+    "Crack Chicken.md",
+    "Chicken Stock.md",
+    "Spanish Tortilla.md",
+    "Mac N Cheese.md",
+    "Sweet Cream Base 1 - Ben & Jerry.md",
+    "Sweet Cream Base 2 - Ben & Jerry.md",
+    "Masoor Dal.md",
+    "Pancakes with Buttermilk.md",
     "Steel Cut Oats.md",
+    "Moong Dal.md",
+    "Dal Makhani.md",
+    "Cornbread.md",
+    "White Chicken Chili.md",
     "Japanese Curry.md",
+    "White Urad Dal.md",
+    "Chicken Wings.md",
     "Beef Burgundy.md",
     "Gin Cocktails.md",
-    "Khichdi.md",
     "Chocolate Crinkle Cookies.md",
-    "Chicken Stock.md",
-    "Moong Dal.md",
-    "Masoor Dal.md",
-    "Dal Makhani.md",
     "Gingerbread Cookies.md",
-    "Thin Crust Pizza.md",
     "French Toast.md",
     "Palak Paneer.md",
-    "Mac N Cheese.md",
     "Chocolate Chip Cookies.md",
-    "Garlic Urad Dal Fry.md",
-    "White Urad Dal.md",
-    "/White Urad Dal.md",
-    "Bacon Beef Beer Chili.md",
-    "Cornbread.md",
-    "Pad Thai.md",
-    "Ground Pork Stir-fry.md",
-    "Naan with Poolish.md",
-    "Banana Bread - InstantPot.md",
-    "Seitan.md",
     "Frittata.jpg"
   ]
 }

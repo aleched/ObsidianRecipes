@@ -30,3 +30,9 @@
 - ¾ oz lemon juice
 - ½ oz maraschino liqueur
 - ¼ oz crème de violette
+
+**Last Word**
+- ¾ oz gin
+- ¾ oz green chartreuse
+- ¾ oz maraschino liqueur
+- ¾ oz lime juice
