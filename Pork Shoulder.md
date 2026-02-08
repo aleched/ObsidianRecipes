@@ -1,7 +1,11 @@
 #Pork #Oven 
 - 1 whole 8 lb pork butt
+
+Initial seasoning
 - ½ cup sugar
 - ½ cup kosher salt
+
+Final coat
 - ½ cup brown sugar
 - 1 tbsp kosher salt
 
