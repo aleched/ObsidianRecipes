@@ -1,3 +1,10 @@
+---
+tags:
+  - Sauce
+  - Vegetarian
+title: Alfredo Sauce
+---
+
 #Sauce #Vegetarian 
 - 4 tbsp butter
 - 1 cup heavy cream
