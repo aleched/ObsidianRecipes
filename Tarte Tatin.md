@@ -1,3 +1,11 @@
+---
+tags:
+  - Dessert
+  - Pie
+  - Oven
+title: Tarte Tatin
+---
+
 ## Ingredients
 
 ### Crust
