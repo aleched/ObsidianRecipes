@@ -1,8 +1,8 @@
 ---
+title: Adobo Chicken
 tags:
   - Chicken
   - Range
-title: Adobo Chicken
 ---
 
 ## Ingredients
