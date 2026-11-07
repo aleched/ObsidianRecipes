@@ -3,6 +3,10 @@ title: Adobo Chicken
 tags:
   - Chicken
   - Range
+servings: 6
+prep_time: 10 min
+cook_time: 40 min
+source: Kenji
 ---
 
 ## Ingredients
